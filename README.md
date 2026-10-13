@@ -1,6 +1,6 @@
 # 角取り陣
 
-▶ **あそぶ：https://ryowatanabe1161-svg.github.io/kakutori-jin/**
+▶ **あそぶ：https://fuusan-games.github.io/kakutori-jin/**
 
 
 角と角でつなぐ、4色・20×20の陣取りパズル（オンライン対戦）。クラシックな「角でつなぐポリオミノ配置ゲーム」の公式ルールに沿ったオリジナル作品です。
